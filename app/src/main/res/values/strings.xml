@@ -1,6 +1,5 @@
 <resources>
-
-    <string name="app_name">FilmsSearch</string>
+    <string name="app_name">MovieSearch</string>
     <string name="disclaimer">Постеры предоставлены https://www.movieposters.com/</string>
     <string name="btn_menu">Меню</string>
     <string name="btn_fav">Избранное</string>
@@ -12,7 +11,6 @@
     <string name="menu_watch_later_title">Посмотреть позже</string>
     <string name="menu_selections_title">Подборки</string>
     <string name="menu_settings_title">Настройки</string>
-
 </resources>
 
 
